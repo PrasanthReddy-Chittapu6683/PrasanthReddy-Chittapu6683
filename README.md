@@ -48,8 +48,8 @@
   
 * I'm a freelancer and love to share my knowledge by contributing to open source projects.
 
-## Follow me Fork the repositories you like and get updates.⚡ Have Fun ⚡
-## And explore my repos to know more.... 👇
+## Follow me .....⚡ Have Fun ⚡
+## Checkout my repos to know more.... 👇
 
 
 
