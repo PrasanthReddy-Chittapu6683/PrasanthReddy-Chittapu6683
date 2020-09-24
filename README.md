@@ -10,8 +10,8 @@
   * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/Redux-JavaScript/blob/master/README.md">Redux using Javascript  👍 </a>
   * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/Redux-ReactUI/blob/master/redux-reactui-demo/README.md">Redux using React UI  👍 </a>
   * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/ES6_Typescript/blob/master/ES6.txt">ES6 & TypeScript concepts  👍 </a>
-  * 🔭  <a href="https://whatsappreactclone.web.app/">WhatsApp Clone (ReactJS, HOOKS & JavaScript)  👍 </a>
-  * 🔭  <a href="https://clone-ea9ab.web.app/">Amazon Clone (ReactJS, HOOKS & JavaScript)  👍 </a>
+  * 🔭  <a href="https://whatsappreactclone.web.app/">WhatsApp Clone (ReactJS, HOOKS, JavaScript, Firebase deployments, Firebase Realtime Database)  👍 </a>
+  * 🔭  <a href="https://clone-ea9ab.web.app/">Amazon Clone (ReactJS, HOOKS, Material UI, JavaScript, Firebase functions, Firebase deployment,Firebase Realtime Database, Stripe (for payment functionality), )  👍 </a>
   
 * Am working on other projects which can be pusblished in future:
   * Angular 9 & 10 Features
