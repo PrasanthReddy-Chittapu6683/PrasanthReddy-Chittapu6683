@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Prasanth Reddy CV and I'm very passionate about Web Development technologies and UI/UX designing 
 
 ### About Me 
-* I'm Currently woking on Designing the sample projects in some of the Javascript frameworks that explains the `` Basics to Advance `` features of the frameworks.
+* I'm Currently woking on Designing the demo projects in some of the Javascript frameworks that explains the `` Basics to Advance `` features of the frameworks.
 * Am designing the projects and materials documents for the below Projects which can helps to understand the framework easily.
 
   * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/Angular8-Git">Angular 8+ & Angular Matrerial Design 👍 </a>
