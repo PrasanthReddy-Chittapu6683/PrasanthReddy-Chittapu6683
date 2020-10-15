@@ -3,8 +3,8 @@
 ### My Portfolio: https://silly-wescoff-4f0910.netlify.app/
 
 ### About Me 
-* I'm Currently woking on Designing the demo projects in some of the Javascript frameworks that explains the `` Basics to Advance `` features of the frameworks.
-* Am designing the projects and materials documents for the below Projects which can helps to understand the framework easily.
+* Designing the demo projects in some of the Javascript frameworks that explains the `` Basics to Advance `` features of the frameworks.
+* Clikc on the below link to access the project & more details about it.
 
   * 🔭  <a href="https://prcv-netflix-clone.web.app/">Netflix Clone (ReactJS, HOOKS, Material UI, JavaScript, ES6-7, Firebase deployment, Axios)  👍 </a>
   * 🔭  <a href="https://whatsappreactclone.web.app/">WhatsApp Clone (ReactJS, HOOKS, JavaScript, ES6-7, Firebase deployments, Firebase Realtime Database, Axios)  👍 </a>
@@ -12,15 +12,21 @@
   * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/Angular8-Git">Angular 8+ & Angular Matrerial Design 👍 </a>
   * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/Angular-Interview-Questions">Angular Interview Questions  👍 </a>
   * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/Angular-Animations">Angular Animations  👍 </a>
+  * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/AngularRxjs">Angular NgRx - State Management using STORE, ACTION, REDUCER, SELECTOR & EFFECT 👍 </a>
   * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/ReactJs-V16.13.1/blob/master/reactjs-my-learnings/reactJs.txt">React UI 16.13+  👍 </a>
   * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/React-HOOKS/blob/master/README.md">React Hooks  👍 </a>
   * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/Redux-JavaScript/blob/master/README.md">Redux using Javascript  👍 </a>
   * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/Redux-ReactUI/blob/master/redux-reactui-demo/README.md">Redux using React UI  👍 </a>
   * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/ES6_Typescript/blob/master/ES6.txt">ES6 & TypeScript concepts  👍 </a>
+  * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/ES6-JavaScript-Webpack"> Using WEBPACK & BABEL plugin how to run the Plain ES6 & JavaScript application 👍 </a>
  
   
-* Am working on other projects which can be pusblished in future:
+#### ✨More Features:✨
   * Angular 9 & 10 Features
+  * Angular NgRx
+  * ES6 & JavaScript
+  * WebPack & Babel plug in
+  * React Redux
   * React Formik
   * React Storybook
   * React Native
