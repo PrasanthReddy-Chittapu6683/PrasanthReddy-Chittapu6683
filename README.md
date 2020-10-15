@@ -21,7 +21,7 @@
   * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/ES6-JavaScript-Webpack"> Using WEBPACK & BABEL plugin how to run the Plain ES6 & JavaScript application 👍 </a>
  
   
-#### ✨More Features:✨
+## ✨More Features:✨
   * Angular 9 & 10 Features
   * Angular NgRx
   * ES6 & JavaScript
@@ -34,7 +34,7 @@
   * GraphQL
   * CSS-in-JavaScript library
   
-* Apart from UI Framework am designing the Materials on `` Artifical Intellegence and Machine Learning  `` concepts with sample projects.
+## Apart from UI Framework am designing the Materials on `` Artifical Intellegence and Machine Learning  `` concepts with sample projects.
   * Introduction to Python
   * Python for Data science
   * Math for Machine Learning
@@ -60,10 +60,10 @@
     * Unsupervised Learning: Principle Component Analysis
    
   
-* I'm a freelancer and love to share my knowledge by contributing to open source projects.
+## I'm a freelancer and love to share my knowledge by contributing to open source projects.
 
 ## Follow me .....⚡ Have Fun ⚡
-## Checkout my repos to know more.... 👇
+ 
 
 
 
