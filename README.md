@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Prasanth Reddy CV and I'm very passionate about Web Development technologies and UI/UX designing 
 
-### My Portfolio: https://silly-wescoff-4f0910.netlify.app/
+### My Portfolio: https://cvpkr-portfolio.web.app/
 
 ### About Me 
 * Designing the demo projects in some of the Javascript frameworks that explains the `` Basics to Advance `` features of the frameworks.
