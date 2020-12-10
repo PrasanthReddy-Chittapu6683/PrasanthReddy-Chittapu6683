@@ -63,10 +63,11 @@
     * Unsupervised Learning: Principle Component Analysis
    
   
-## I'm a freelancer and love to share my knowledge by contributing to open source projects.
+## I love to share my knowledge by contributing to open source projects.
 
 ## Follow me .....⚡ Have Fun ⚡
- 
+
+📫 <a href="https://www.linkedin.com/in/prasanth-kumar-reddy-cv-385768b5/"> @ LinkedIn  👍 </a>   
 
 
 
