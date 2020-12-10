@@ -21,6 +21,7 @@
   * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/Redux-ReactUI/blob/master/redux-reactui-demo/README.md">Redux using React UI  👍 </a>
   * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/ES6_Typescript/blob/master/ES6.txt">ES6 & TypeScript concepts  👍 </a>
   * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/ES6-JavaScript-Webpack"> Using WEBPACK & BABEL plugin how to run the Plain ES6 & JavaScript application 👍 </a>
+  * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/CSS-Tricks"> CSS Tricks & Tips  👍 </a>
  
   
 ## ✨More Features:✨
