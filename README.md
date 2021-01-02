@@ -6,6 +6,7 @@
 * Designing the demo projects in some of the Javascript frameworks that explains the `` Basics to Advance `` features of the frameworks.
 * Click on the below link to access the project & more details about it.
 
+  * 🔭  <a href="https://you-tube-clone-cvpkr.web.app/">YouTube Clone (ReactJS, HOOKS, Material UI,YouTube Data API, JavaScript, ES6-7, Firebase deployment, Axios)  👍 </a>
   * 🔭  <a href="https://prcv-netflix-clone.web.app/">Netflix Clone (ReactJS, HOOKS, Material UI, JavaScript, ES6-7, Firebase deployment, Axios)  👍 </a>
   * 🔭  <a href="https://whatsappreactclone.web.app/">WhatsApp Clone (ReactJS, HOOKS, JavaScript, ES6-7, Firebase deployments, Firebase Realtime Database, Axios)  👍 </a>
   * 🔭  <a href="https://clone-ea9ab.web.app/">Amazon Clone (ReactJS, HOOKS, Material UI, JavaScript, ES6-7, Firebase functions, Firebase deployment,Firebase Realtime Database, Stripe (for payment functionality), FontAwesome Icons, Axios)  👍 </a>  
