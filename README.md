@@ -11,6 +11,7 @@
   * 🔭  <a href="https://prcv-netflix-clone.web.app/">Netflix Clone (ReactJS, HOOKS, Material UI, JavaScript, ES6-7, Firebase deployment, Axios)  👍 </a>
   * 🔭  <a href="https://whatsappreactclone.web.app/">WhatsApp Clone (ReactJS, HOOKS, JavaScript, ES6-7, Firebase deployments, Firebase Realtime Database, Axios)  👍 </a>
   * 🔭  <a href="https://clone-ea9ab.web.app/">Amazon Clone (ReactJS, HOOKS, Material UI, JavaScript, ES6-7, Firebase functions, Firebase deployment,Firebase Realtime Database, Stripe (for payment functionality), FontAwesome Icons, Axios)  👍 </a>  
+  * 🔭  <a href="https://task-list-d20ba.web.app">Task List App (ReactJS, HOOKS, TypeScipt, REDUX, ES6-7, Firebase deployment, FontAwesome Icons)  👍 </a>  
   * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/React-StoryBook">React Story Book 👍 </a>
   * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/React-Native-MobileApp">React Native (Mobile App Development) 👍 </a>  
   * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/Angular8-Git">Angular 8+ & Angular Matrerial Design 👍 </a>
