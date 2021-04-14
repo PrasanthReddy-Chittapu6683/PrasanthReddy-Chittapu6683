@@ -41,7 +41,7 @@
   * GraphQL
   * CSS-in-JavaScript library
   
-## Apart from UI Framework am designing the Materials on `` Artifical Intellegence and Machine Learning  `` concepts with sample projects.
+## Apart from UI Framework am designing the projects on `` Artifical Intellegence and Machine Learning  `` concepts using Deep Learning conepts.
   * Introduction to Python
   * Python for Data science
   * Math for Machine Learning
@@ -69,7 +69,7 @@
   
 ## I love to share my knowledge by contributing to open source projects.
 
-## Follow me .....⚡ Have Fun ⚡
+## Follow me .....⚡ Have Fun ... Spread the joy of coding ⚡
 
 📫 <a href="https://www.linkedin.com/in/prasanth-kumar-reddy-cv-385768b5/"> @ LinkedIn  👍 </a>   
 
