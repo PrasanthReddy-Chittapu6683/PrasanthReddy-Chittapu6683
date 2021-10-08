@@ -4,7 +4,7 @@
 
 ### About Me 
 * Designing the demo projects in some of the Javascript frameworks that explains the `` Basics to Advance `` features of the frameworks.
-* Click on the below link to access the project & more details about it.
+* Click on the below link to access the project & more details.
 
   * 🔭  <a href="https://voice-assist-faq-ai-app.web.app/">Artificial Intellegence Voice Assistance App using ReactJs (ReactJS, HOOKS, Chakra UI, JavaScript, ES6-7, Firebase deployment)  👍 </a>
   * 🔭  <a href="https://you-tube-clone-cvpkr.web.app/">YouTube Clone (ReactJS, HOOKS, Material UI,YouTube Data API, JavaScript, ES6-7, Firebase deployment, Axios)  👍 </a>
