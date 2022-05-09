@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [React, NextJS, Angular, Node JS, TensorFlow JS](https://ai-react-tfod.firebaseapp.com/)
 
-- 🌱 I’m currently learning **Python, Graph QL,Neo4J,Data Science(Probability and Statistics), Data Modelling, Machine Learning modals, AI modals etc...)**
+- 🌱 I’m currently learning **Python, Graph QL, Neo4J, Data Science(Probability and Statistics), Data Modelling, Machine Learning modals, AI modals etc...)**
 
 - 👯 I’m looking to collaborate on **Python, ML & AI, NLP, Data Science, NextJS, Node JS, GraphQL, Neo4J Application development**
 
 - 🤝 All of projects & study materials are available at [MY GIT HUB](https://github.com/PrasanthReddy-Chittapu6683)
 
-- 👨‍💻 All of my projects are available at [https://cvpkr-portfolio.web.app/](https://cvpkr-portfolio.web.app/)
+- 👨‍💻  [My Portfolio:](https://cvpkr-portfolio.web.app/)
 
 - 💬 Ask me about **REACT, NextJS, Node JS, Angular, JavaScript, TypeScript, Python.**
 
