@@ -20,8 +20,8 @@
 - 📫 How to reach me **prasanthreddy.chittapu@gmail.com**
 
 <h3 align="left">About Me:</h3>
-* Designing the demo projects in some of the Javascript frameworks that explains the `` Basics to Advance `` features of the frameworks.
-* Click on the below link to access the project & more details.
+  <h4 align="left">  Designing the demo projects in some of the Javascript frameworks that explains the    `Basics to Advance` features of the frameworks.</h4>
+   <h4 align="left"> Click on the below link to access the project & more details.</h4>
 
   * 🔭  <a href="https://voice-assist-faq-ai-app.web.app/">Artificial Intellegence Voice Assistance App using ReactJs (ReactJS, HOOKS, Chakra UI, JavaScript, ES6-7, Firebase deployment)  👍 </a>
   * 🔭  <a href="https://you-tube-clone-cvpkr.web.app/">YouTube Clone (ReactJS, HOOKS, Material UI,YouTube Data API, JavaScript, ES6-7, Firebase deployment, Axios)  👍 </a>
