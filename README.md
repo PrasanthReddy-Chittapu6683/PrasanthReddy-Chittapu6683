@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasanthreddy-chittapu6683" alt="prasanthreddy-chittapu6683" /></a> </p>
 
-- 🔭 I’m currently working on [React, NextJS, Angular, Node JS, TensorFlow JS](https://ai-react-tfod.firebaseapp.com/)
+- 🔭 I’m currently working on [React, NextJS, Angular, Node JS, TensorFlow JS projects](https://ai-react-tfod.firebaseapp.com/)
 
 - 🌱 I’m currently learning **Python, Graph QL, Neo4J, Data Science(Probability and Statistics), Data Modelling, Machine Learning modals, AI modals etc...)**
 
