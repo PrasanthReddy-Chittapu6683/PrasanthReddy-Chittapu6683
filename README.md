@@ -19,6 +19,32 @@
 
 - 📫 How to reach me **prasanthreddy.chittapu@gmail.com**
 
+<h3 align="left">About Me:</h3>
+* Designing the demo projects in some of the Javascript frameworks that explains the `` Basics to Advance `` features of the frameworks.
+* Click on the below link to access the project & more details.
+
+  * 🔭  <a href="https://voice-assist-faq-ai-app.web.app/">Artificial Intellegence Voice Assistance App using ReactJs (ReactJS, HOOKS, Chakra UI, JavaScript, ES6-7, Firebase deployment)  👍 </a>
+  * 🔭  <a href="https://you-tube-clone-cvpkr.web.app/">YouTube Clone (ReactJS, HOOKS, Material UI,YouTube Data API, JavaScript, ES6-7, Firebase deployment, Axios)  👍 </a>
+  * 🔭  <a href="https://cvpkr-videoplayerapp.web.app/">Videpalyer (ReactJS, HOOKS, Chakra UI,YouTube Data API, JavaScript, ES6-7, Firebase deployment, Axios)  👍 </a>
+  * 🔭  <a href="https://prcv-netflix-clone.web.app/">Netflix Clone (ReactJS, HOOKS, Material UI, JavaScript, ES6-7, Firebase deployment, Axios)  👍 </a>
+  * 🔭  <a href="https://whatsappreactclone.web.app/">WhatsApp Clone (ReactJS, HOOKS, JavaScript, ES6-7, Firebase deployments, Firebase Realtime Database, Axios)  👍 </a>
+  * 🔭  <a href="https://clone-ea9ab.web.app/">Amazon Clone (ReactJS, HOOKS, Material UI, JavaScript, ES6-7, Firebase functions, Firebase deployment,Firebase Realtime Database, Stripe (for payment functionality), FontAwesome Icons, Axios)  👍 </a>  
+  * 🔭  <a href="https://task-list-d20ba.web.app">Task List App (ReactJS, HOOKS, TypeScipt, REDUX, ES6-7, Firebase deployment, FontAwesome Icons)  👍 </a>  
+  * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/React-StoryBook">React Story Book 👍 </a>
+  * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/React-Native-MobileApp">React Native (Mobile App Development) 👍 </a>  
+  * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/Angular8-Git">Angular 8+ & Angular Matrerial Design 👍 </a>
+  * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/Angular-Interview-Questions">Angular Interview Questions  👍 </a>
+  * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/Angular-Animations">Angular Animations  👍 </a>
+  * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/AngularRxjs">Angular NgRx - State Management using STORE, ACTION, REDUCER, SELECTOR & EFFECT 👍 </a>
+  * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/ReactJs-V16.13.1/blob/master/reactjs-my-learnings/reactJs.txt">React UI 16.13+  👍 </a>
+  * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/React-HOOKS/blob/master/README.md">React Hooks  👍 </a>
+  * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/Redux-JavaScript/blob/master/README.md">Redux using Javascript  👍 </a>
+  * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/Redux-ReactUI/blob/master/redux-reactui-demo/README.md">Redux using React UI  👍 </a>
+  * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/ES6_Typescript/blob/master/ES6.txt">ES6 & TypeScript concepts  👍 </a>
+  * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/ES6-JavaScript-Webpack"> Using WEBPACK & BABEL plugin how to run the Plain ES6 & JavaScript application 👍 </a>
+  * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/CSS-Tricks"> CSS Tricks & Tips  👍 </a>
+  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prasanth-kumar-reddy-cv-385768b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasanth-kumar-reddy-cv-385768b5" height="30" width="40" /></a>
