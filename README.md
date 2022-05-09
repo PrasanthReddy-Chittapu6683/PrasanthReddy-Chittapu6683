@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prasanth Kumar Reddy CV</h1>
 <h3 align="center">I'm very passionate about Web Development, Machine Learning & Artificial Intelligence technologies, UI/UX designing, JavaScript frameworks and DEVOPS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanthreddy-chittapu6683&label=Profile%20views&color=0e75b6&style=flat" alt="prasanthreddy-chittapu6683" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanthreddy-chittapu6683&label=Profile%20views&color=0e75b6&style=plastic" alt="prasanthreddy-chittapu6683" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasanthreddy-chittapu6683" alt="prasanthreddy-chittapu6683" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [React, NextJS, Angular, Node JS, TensorFlow JS](https://ai-react-tfod.firebaseapp.com/)
 
@@ -32,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasanthreddy-chittapu6683&show_icons=true&theme=dark&locale=en&layout=compact" alt="prasanthreddy-chittapu6683" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanthreddy-chittapu6683&show_icons=true&locale=en" alt="prasanthreddy-chittapu6683" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanthreddy-chittapu6683&show_icons=true&theme=dark&locale=en" alt="prasanthreddy-chittapu6683" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanthreddy-chittapu6683&theme=dark" alt="prasanthreddy-chittapu6683" /></p>
