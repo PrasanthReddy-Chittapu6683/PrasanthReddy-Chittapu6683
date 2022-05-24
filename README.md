@@ -23,6 +23,7 @@
   <h4 align="left">  Designing the demo projects in some of the Javascript frameworks that explains the    `Basics to Advance` features of the frameworks.</h4>
    <h4 align="left"> Click on the below link to access the project & more details.</h4>
 
+  * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/react-typescript"> React + Typescript (React, HOOKS, Typescript, ES6-7)  👍 </a>
   * 🔭  <a href="https://voice-assist-faq-ai-app.web.app/">Artificial Intellegence Voice Assistance App using ReactJs (ReactJS, HOOKS, Chakra UI, JavaScript, ES6-7, Firebase deployment)  👍 </a>
   * 🔭  <a href="https://you-tube-clone-cvpkr.web.app/">YouTube Clone (ReactJS, HOOKS, Material UI,YouTube Data API, JavaScript, ES6-7, Firebase deployment, Axios)  👍 </a>
   * 🔭  <a href="https://cvpkr-videoplayerapp.web.app/">Videpalyer (ReactJS, HOOKS, Chakra UI,YouTube Data API, JavaScript, ES6-7, Firebase deployment, Axios)  👍 </a>
