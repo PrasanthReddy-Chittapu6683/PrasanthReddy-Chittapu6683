@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasanth Kumar Reddy CV</h1>
-<h3 align="center">I'm very passionate about Web Development, Machine Learning & Artificial Intelligence technologies, UI/UX designing, JavaScript frameworks and DEVOPS</h3>
+<h3 align="center">I'm very passionate about Web Development, Design Systems (Figma), Machine Learning & Artificial Intelligence technologies, UI/UX designing, JavaScript frameworks and DEVOPS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanthreddy-chittapu6683&label=Profile%20views&color=0e75b6&style=plastic" alt="prasanthreddy-chittapu6683" /> </p>
 
@@ -23,6 +23,7 @@
   <h4 align="left">  Designing the demo projects in some of the Javascript frameworks that explains the    `Basics to Advance` features of the frameworks.</h4>
    <h4 align="left"> Click on the below link to access the project & more details.</h4>
 
+ * 🔭  <a href="[https://github.com/PrasanthReddy-Chittapu6683/react-typescript](https://www.figma.com/proto/jlLsQl6x4gbH3hbH4cANGQ/My-Sample-1?page-id=0%3A1&node-id=1%3A6&viewport=718%2C2409%2C1&scaling=min-zoom)"> Figma Template  👍 </a>
   * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/react-typescript"> React + Typescript (React, HOOKS, Typescript, ES6-7)  👍 </a>
   * 🔭  <a href="https://voice-assist-faq-ai-app.web.app/">Artificial Intellegence Voice Assistance App using ReactJs (ReactJS, HOOKS, Chakra UI, JavaScript, ES6-7, Firebase deployment)  👍 </a>
   * 🔭  <a href="https://you-tube-clone-cvpkr.web.app/">YouTube Clone (ReactJS, HOOKS, Material UI,YouTube Data API, JavaScript, ES6-7, Firebase deployment, Axios)  👍 </a>
