@@ -22,7 +22,7 @@
 <h3 align="left">About Me:</h3>
   <h4 align="left">  Designing the demo projects in some of the Javascript frameworks that explains the    `Basics to Advance` features of the frameworks.</h4>
    <h4 align="left"> Click on the below link to access the project & more details.</h4>
-
+ * 🔭  <a target="_blank" href="https://github.com/PrasanthReddy-Chittapu6683/react-typescript-folder-structure"> Folder structure for React + Typescript + Graphql   👍 </a>
  * 🔭  <a target="_blank" href="https://www.figma.com/proto/jlLsQl6x4gbH3hbH4cANGQ/My-Sample-1?page-id=0%3A1&node-id=1%3A6&viewport=718%2C2409%2C1&scaling=min-zoom"> Figma Template  👍 </a>
   * 🔭  <a href="https://github.com/PrasanthReddy-Chittapu6683/react-typescript"> React + Typescript (React, HOOKS, Typescript, ES6-7)  👍 </a>
   * 🔭  <a href="https://voice-assist-faq-ai-app.web.app/">Artificial Intellegence Voice Assistance App using ReactJs (ReactJS, HOOKS, Chakra UI, JavaScript, ES6-7, Firebase deployment)  👍 </a>
