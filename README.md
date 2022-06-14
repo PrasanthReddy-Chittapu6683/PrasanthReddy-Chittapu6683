@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanthreddy-chittapu6683&label=Profile%20views&color=0e75b6&style=plastic" alt="prasanthreddy-chittapu6683" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasanthreddy-chittapu6683" alt="prasanthreddy-chittapu6683" /></a> </p>
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://linkedin.com/in/prasanth-kumar-reddy-cv-385768b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasanth-kumar-reddy-cv-385768b5" height="30" width="40" /></a>
+<a href="https://medium.com/@prasanthreddy-chittapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prasanthreddy-chittapu" height="30" width="40" /></a><a href="https://fb.com/prasanth.chittapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasanth.chittapu" height="30" width="40" /></a>
+</p>
 
 - 🔭 I’m currently working on [React, NextJS, Angular, Node JS, TensorFlow JS projects](https://ai-react-tfod.firebaseapp.com/)
 
@@ -17,6 +22,7 @@
 
 - 💬 Ask me about **REACT, NextJS, Node JS, Angular, JavaScript, TypeScript, Python.**
 
+<h3 align="left">About Me:</h3>
 <h4 align="left">  Designing the demo projects in some of the Javascript frameworks that explains the    `Basics to Advance` features of the frameworks.</h4>
 <h4 align="left"> Click on the below link to access the project & more details.</h4>
 
@@ -47,12 +53,8 @@
  
 
  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasanthreddy-chittapu6683" alt="prasanthreddy-chittapu6683" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prasanth-kumar-reddy-cv-385768b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasanth-kumar-reddy-cv-385768b5" height="30" width="40" /></a>
-<a href="https://medium.com/@prasanthreddy-chittapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prasanthreddy-chittapu" height="30" width="40" /></a><a href="https://fb.com/prasanth.chittapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasanth.chittapu" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
