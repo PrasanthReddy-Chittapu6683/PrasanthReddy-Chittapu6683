@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Python, ML & AI, NLP, Data Science, NextJS, Node JS, GraphQL, Neo4J Application development**
 
-- 🤝 All of projects & study materials are available at [MY GIT HUB](https://github.com/PrasanthReddy-Chittapu6683)
+- 🤝 All of projects & study materials are available at [MY GIT HUB](https://github.com/PrasanthReddy-Chittapu6683?tab=repositories)
 
 - 👨‍💻  [My Portfolio:](https://cvpkr-portfolio.web.app/)
 
