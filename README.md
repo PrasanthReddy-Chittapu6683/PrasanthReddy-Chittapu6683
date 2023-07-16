@@ -10,7 +10,7 @@
 <a href="https://medium.com/@prasanthreddy-chittapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prasanthreddy-chittapu" height="30" width="40" /></a><a href="https://fb.com/prasanth.chittapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasanth.chittapu" height="30" width="40" /></a>
 </p>
 
-- 🔭 Technically sophisticated and performance-focused technology specialist with more than 13+ years of demonstrated history in web application development and project management with excellent knowledge of [React, NextJS, Angular, Node JS, TensorFlow JS projects](https://ai-react-tfod.firebaseapp.com/)
+- 🔭 Technically sophisticated and performance-focused technology specialist with more than 14+ years of demonstrated history in web application development and project management with excellent knowledge of [React, NextJS, Angular, Node JS, TensorFlow JS projects](https://ai-react-tfod.firebaseapp.com/)
 
 - 🌱 Learning **Python, Graph QL, Neo4J, Data Science(Probability and Statistics), Data Modelling, Machine Learning modals, AI modals etc...)**
 
