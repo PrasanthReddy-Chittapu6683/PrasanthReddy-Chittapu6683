@@ -10,32 +10,32 @@
 <a href="https://medium.com/@prasanthreddy-chittapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prasanthreddy-chittapu" height="30" width="40" /></a><a href="https://fb.com/prasanth.chittapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasanth.chittapu" height="30" width="40" /></a>
 </p>
 
-- 🔭 Technically sophisticated and performance-focused technology specialist with more than 14+ years of demonstrated history in web application development and project management with excellent knowledge of [React, NextJS, Angular, Node JS, TensorFlow JS projects](https://ai-react-tfod.firebaseapp.com/)
+- 🔭 Technically sophisticated and performance-focused technology specialist with more than 14+ years of demonstrated history in web application development and project management with excellent knowledge of [React, NextJS, Svelte, Remix, React Native, Angular, Node JS, TensorFlow JS projects](https://ai-react-tfod.firebaseapp.com/)
 
-- 🌱 Learning **Python, Graph QL, Neo4J, Data Science(Probability and Statistics), Data Modelling, Machine Learning modals, AI modals etc...)**
+- 🌱 Learning **Python, Graph QL, Neo4J, Data Science(Probability and Statistics), Data Modelling, Machine Learning models, AI models etc...)**
 
-- 👯 I’m looking to collaborate on **Python, ML & AI, NLP, Data Science, NextJS, Node JS, GraphQL, Neo4J Application development**
+- 👯 I’m looking to collaborate on **Python, ML & AI, NLP, Data Science, NextJS, Node JS, GraphQL, and Neo4J Application development**
 
 - 🤝 All of projects & study materials are available at [MY GIT HUB](https://github.com/PrasanthReddy-Chittapu6683?tab=repositories)
 
 - 👨‍💻  [My Portfolio:](https://cvpkr-portfolio.web.app/)
 
-- 💬 Ask me about **REACT, NextJS, Node JS, Angular, JavaScript, TypeScript, Python.**
+- 💬 Ask me about **REACT, NextJS, Node JS, Angular, JavaScript, TypeScript, and Python.**
 
 <h3 align="left">About Me:</h3>
-<h4 align="left">  Designing the demo projects in some of the Javascript frameworks that explains the    `Basics to Advance` features of the frameworks.</h4>
+<h4 align="left">  Designing the demo projects in some of the Javascript frameworks that explain the    `Basics to Advance` features of the frameworks.</h4>
 <h4 align="left"> Click on the below link to access the project & more details.</h4>
 
 
 - <a target="_blank" href="https://github.com/PrasanthReddy-Chittapu6683/react-typescript-folder-structure"> Folder structure for React + Typescript + Graphql   👍 </a>
 - <a target="_blank" href="https://www.figma.com/proto/jlLsQl6x4gbH3hbH4cANGQ/My-Sample-1?page-id=0%3A1&node-id=1%3A6&viewport=718%2C2409%2C1&scaling=min-zoom"> Figma Template  👍 </a>
 - <a href="https://github.com/PrasanthReddy-Chittapu6683/react-typescript"> React + Typescript (React, HOOKS, Typescript, ES6-7)  👍 </a>
-- <a href="https://voice-assist-faq-ai-app.web.app/">Artificial Intellegence Voice Assistance App using ReactJs (ReactJS, HOOKS, Chakra UI, JavaScript, ES6-7, Firebase deployment)  👍 </a>
-- <a href="https://you-tube-clone-cvpkr.web.app/">YouTube Clone (ReactJS, HOOKS, Material UI,YouTube Data API, JavaScript, ES6-7, Firebase deployment, Axios)  👍 </a>
--  <a href="https://cvpkr-videoplayerapp.web.app/">Videpalyer (ReactJS, HOOKS, Chakra UI,YouTube Data API, JavaScript, ES6-7, Firebase deployment, Axios)  👍 </a>
+- <a href="https://voice-assist-faq-ai-app.web.app/">Artificial Intelligence Voice Assistance App using ReactJs (ReactJS, HOOKS, Chakra UI, JavaScript, ES6-7, Firebase deployment)  👍 </a>
+- <a href="https://you-tube-clone-cvpkr.web.app/">YouTube Clone (ReactJS, HOOKS, Material UI, YouTube Data API, JavaScript, ES6-7, Firebase deployment, Axios)  👍 </a>
+-  <a href="https://cvpkr-videoplayerapp.web.app/">Videpalyer (ReactJS, HOOKS, Chakra UI, YouTube Data API, JavaScript, ES6-7, Firebase deployment, Axios)  👍 </a>
 - <a href="https://prcv-netflix-clone.web.app/">Netflix Clone (ReactJS, HOOKS, Material UI, JavaScript, ES6-7, Firebase deployment, Axios)  👍 </a>
 - <a href="https://whatsappreactclone.web.app/">WhatsApp Clone (ReactJS, HOOKS, JavaScript, ES6-7, Firebase deployments, Firebase Realtime Database, Axios)  👍 </a>
-- <a href="https://clone-ea9ab.web.app/">Amazon Clone (ReactJS, HOOKS, Material UI, JavaScript, ES6-7, Firebase functions, Firebase deployment,Firebase Realtime Database, Stripe (for payment functionality), FontAwesome Icons, Axios)  👍 </a>  
+- <a href="https://clone-ea9ab.web.app/">Amazon Clone (ReactJS, HOOKS, Material UI, JavaScript, ES6-7, Firebase functions, Firebase deployment, Firebase Realtime Database, Stripe (for payment functionality), FontAwesome Icons, Axios)  👍 </a>  
 - <a href="https://task-list-d20ba.web.app">Task List App (ReactJS, HOOKS, TypeScipt, REDUX, ES6-7, Firebase deployment, FontAwesome Icons)  👍 </a>  
 - <a href="https://github.com/PrasanthReddy-Chittapu6683/React-StoryBook">React Story Book 👍 </a>
 - <a href="https://github.com/PrasanthReddy-Chittapu6683/React-Native-MobileApp">React Native (Mobile App Development) 👍 </a>  
