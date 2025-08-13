@@ -18,11 +18,24 @@
 - 💬 **Ask me about:** React, NextJS, Node.js, Angular, JavaScript, TypeScript, and Python
 - 📫 **Portfolio:** [cvpkr-portfolio.web.app](https://cvpkr-portfolio.web.app/)
 
+## 🏗️ **Core Expertise**
+
+### **Component Library Development**
+Specialized in architecting and implementing high-performance, standalone component libraries that prioritize reusability, maintainability, and optimal rendering performance. Expert in creating scalable design systems with comprehensive documentation, accessibility compliance, and cross-framework compatibility.
+
+### **Frontend Architecture & Design**
+Proficient in designing and implementing robust frontend application architectures that ensure scalability, maintainability, and optimal user experience. Skilled in establishing architectural patterns that support enterprise-level applications with complex state management and real-time data requirements.
+
+### **Design Systems & Patterns**
+Experienced in defining comprehensive design systems that establish consistent visual language, component behavior, and interaction patterns across applications. Expert in implementing design patterns that promote code reusability, maintainability, and developer productivity while ensuring optimal performance and accessibility standards.
+
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend Development
+> **Modern JavaScript frameworks and tools for building scalable, performant web applications with emphasis on component reusability and architectural excellence.**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -33,8 +46,13 @@
 ![Web Components](https://img.shields.io/badge/Web%20Components-FF6B6B?style=for-the-badge&logo=webcomponents&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Turbopack](https://img.shields.io/badge/Turbopack-000000?style=for-the-badge&logo=turbopack&logoColor=white)
 
 ### Backend & Database
+> **Robust server-side technologies and database solutions for building scalable, high-performance applications with efficient data management and API design.**
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -42,6 +60,8 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### AI/ML & Data Science
+> **Cutting-edge artificial intelligence and machine learning technologies for building intelligent applications, data analysis, and predictive modeling solutions.**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -52,6 +72,8 @@
 ![LLM Architecture](https://img.shields.io/badge/LLM%20Architecture-9C27B0?style=for-the-badge&logo=neural-network&logoColor=white)
 
 ### DevOps & Tools
+> **Enterprise-grade development operations and infrastructure tools for continuous integration, deployment automation, and scalable cloud solutions.**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
