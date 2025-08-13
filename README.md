@@ -29,6 +29,10 @@
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Lit](https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white)
+![Web Components](https://img.shields.io/badge/Web%20Components-FF6B6B?style=for-the-badge&logo=webcomponents&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -42,6 +46,10 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-00D4AA?style=for-the-badge&logo=openai&logoColor=white)
+![MCP Server](https://img.shields.io/badge/MCP%20Server-FF6B35?style=for-the-badge&logo=serverless&logoColor=white)
+![MCP Client](https://img.shields.io/badge/MCP%20Client-4A90E2?style=for-the-badge&logo=client&logoColor=white)
+![LLM Architecture](https://img.shields.io/badge/LLM%20Architecture-9C27B0?style=for-the-badge&logo=neural-network&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
