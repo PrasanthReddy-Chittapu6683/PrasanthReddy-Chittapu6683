@@ -1,0 +1,226 @@
+PRASANTH KUMAR REDDY CV
+Senior Full Stack Developer & AI/ML Engineer
+
+Calgary, Alberta, Canada
+Email: prasanthreddy.chittapu@gmail.com
+Portfolio: https://cvpkr-portfolio.web.app/
+LinkedIn: https://linkedin.com/in/prasanth-kumar-reddy-cv-385768b5
+GitHub: https://github.com/PrasanthReddy-Chittapu6683
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+
+Senior Technology Specialist with 15+ years of expertise in full-stack web application development, AI/ML engineering, and enterprise architecture. Specialized in building production-ready Agentic AI systems, organization-wide design systems (ONE-UI), and scalable frontend architectures using React, NextJS, and modern JavaScript frameworks.
+
+Core Competencies:
+- Agentic AI Development (LangChain, LangGraph, Multi-Agent Orchestration)
+- MCP Server Development & GitHub SpecKit-Driven Development
+- ONE-UI Architecture & Standalone Component Library Development
+- Enterprise Design Systems (MUI, ShadCN, Daisy UI)
+- Full-Stack Development (React, NextJS, React Native, Angular, Python)
+- AI/ML Engineering (TensorFlow, OpenCV, Voice AI with ElevenLabs)
+- Database Architecture (PostgreSQL, Supabase, MySQL, MongoDB)
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+
+FRONTEND DEVELOPMENT:
+- Frameworks: React 16.3+, NextJS 12+, Angular 15+, Vue.js, Svelte
+- Mobile: React Native with Expo (iOS/Android)
+- Web Components: Lit (Framework-agnostic)
+- Languages: TypeScript, JavaScript ES6+, HTML5, CSS3/SCSS
+- State Management: Redux Toolkit, RTK Query, Zustand, Context API, NgRx
+- UI Libraries: Material UI, ShadCN UI, Daisy UI, Chakra UI, Tailwind CSS
+- Animations: GSAP, Framer Motion, React Spring
+- Build Tools: Vite, Webpack 5, Turbopack, TurboRepo
+
+AI/ML & INTELLIGENT SYSTEMS:
+- Agentic AI: LangChain, LangGraph, Multi-Agent Orchestration
+- LLMs: OpenAI GPT-4, Anthropic Claude 3.5, Google Gemini
+- MCP Development: Model Context Protocol Servers
+- AI Automation: N8N Workflows, GitHub SpecKit, AI Code Review Agents
+- Voice AI: ElevenLabs (Text-to-Speech, Voice Cloning)
+- ML Frameworks: TensorFlow.js, PyTorch, Scikit-learn
+- Computer Vision: OpenCV, Object Detection
+- Vector Databases: Pinecone, Chroma, FAISS
+- Python: Data Science, ML, AI Agent Development
+
+BACKEND & DATABASE:
+- Backend: Node.js, Express, NestJS, GraphQL, RESTful APIs
+- Databases: PostgreSQL, MySQL, MongoDB, Firebase
+- BaaS: Supabase (PostgreSQL, Real-time, Auth, Edge Functions)
+- SQL: Complex queries, optimization, indexing
+
+DEVOPS & TOOLS:
+- Cloud: Microsoft Azure, Firebase, Vercel
+- Containers: Docker
+- CI/CD: GitHub Actions, Jenkins
+- IDEs: Cursor (AI-powered), VS Code, Claude Desktop, Windsurf IDE
+- Version Control: Git, GitHub
+- CLI: Bash, npm, pnpm, Expo CLI, Vercel CLI, Supabase CLI
+
+DESIGN & ARCHITECTURE:
+- Design Systems: ONE-UI Architecture, Multi-brand theming
+- Component Libraries: Standalone, Framework-agnostic
+- Tools: Figma, Storybook, Design Tokens
+- Patterns: Atomic Design, Micro-frontends, DDD, SOLID
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+
+SENIOR FULL STACK DEVELOPER & AI/ML ENGINEER
+November 2010 - Present | 15+ Years
+
+AI/ML DEVELOPMENT & AGENTIC SYSTEMS:
+- Architected production-ready Agentic AI systems using LangChain and LangGraph for multi-step reasoning and autonomous execution
+- Built custom MCP (Model Context Protocol) Servers enabling AI integration into development workflows
+- Implemented N8N workflow automations for business process optimization
+- Developed GitHub SpecKit-driven tools with custom AI code review agents
+- Integrated ElevenLabs Voice AI for text-to-speech and voice applications
+- Created RAG systems using vector databases (Pinecone, Chroma) for semantic search
+- Built multi-agent orchestration systems coordinating specialized AI agents
+
+ONE-UI ARCHITECTURE & COMPONENT LIBRARY LEADERSHIP:
+- Led organization-wide ONE-UI initiative ensuring unified design across all applications
+- Developed standalone, framework-agnostic component libraries using Lit Web Components
+- Created NPM-publishable packages compatible with React, Angular, Vue.js, Vanilla JavaScript
+- Implemented design systems using Material UI, ShadCN UI, and Daisy UI
+- Established design token systems synchronized with Figma
+- Built Storybook documentation with live examples
+
+FRONTEND ARCHITECTURE & DEVELOPMENT:
+- Architected 50+ scalable web applications using React, NextJS, and Angular
+- Developed NextJS applications with SSR, SSG, and React Server Components
+- Built cross-platform mobile apps using React Native with Expo
+- Implemented state management with Redux Toolkit, RTK Query, Zustand
+- Created advanced animations using GSAP, Framer Motion, React Spring
+- Optimized Core Web Vitals achieving 95+ Lighthouse scores
+
+DESIGN SYSTEM & BRAND THEMING:
+- Designed enterprise multi-brand theming frameworks
+- Created CSS Variable-based theme systems with runtime switching
+- Developed design tokens for colors, typography, spacing
+- Ensured WCAG 2.1 AA/AAA accessibility compliance
+- Built Tailwind CSS configurations with brand overrides
+
+FULL-STACK DEVELOPMENT:
+- Developed RESTful and GraphQL APIs using Node.js, Express, NestJS
+- Designed PostgreSQL and MySQL database schemas
+- Implemented real-time features using Supabase
+- Built authentication systems and payment integrations (Stripe)
+- Created Firebase-based applications with Firestore and Cloud Functions
+
+PERFORMANCE & QUALITY:
+- Established testing strategies (Jest, Playwright, Cypress)
+- Implemented CI/CD pipelines with GitHub Actions
+- Set up monorepo architectures using TurboRepo
+- Reduced application load time by 60% through optimization
+- Mentored developers on best practices
+
+================================================================================
+FEATURED PROJECTS
+================================================================================
+
+AI-POWERED APPLICATIONS:
+- AI Voice Assistant: React, OpenAI API, Chakra UI, Speech Recognition
+- Google AI Image Generation: NextJS, Gemini API, TypeScript
+- TensorFlow.js Object Detection: Real-time CV in browser
+- Custom MCP Servers: Python, TypeScript, Model Context Protocol
+
+COMPONENT LIBRARIES & DESIGN SYSTEMS:
+- Generic Component Library: Lit, Framework-agnostic, ONE-UI concept
+- Web Components Showcase: Tailwind, TypeScript, Vercel deployment
+- TurboRepo Monorepo: NextJS, React, Storybook, React Native
+- Enterprise Design Systems: MUI, ShadCN, Daisy UI implementations
+
+FULL-STACK PRODUCTION APPS:
+- YouTube Clone: React, YouTube API, Firebase, Material UI
+- Netflix Clone: React, TMDB API, Firebase Auth, Custom player
+- Amazon Clone: React, Stripe, Firebase, E-commerce features
+- WhatsApp Clone: React, Firebase Realtime DB, WebSockets
+- React Native Food Blog: Expo, TypeScript, iOS/Android
+
+ANIMATION & INTERACTIVE:
+- GSAP Parallax Hero: ScrollTrigger, Text reveals, 60fps
+- Card Stack Animations: GSAP, Responsive, Hover effects
+- Interactive Carousels: Swiper.js, Touch-enabled
+- Bento Box Grid: Framer Motion, Grid animations
+
+DEVELOPER TOOLS:
+- React TypeScript Architecture: GraphQL, Best practices
+- GitHub SpecKit NextJS: AI-powered developer tools
+- Redux Toolkit Implementation: RTK Query, Modern patterns
+- React Storybook: Component development environment
+
+================================================================================
+SPECIALIZED EXPERTISE
+================================================================================
+
+ONE-UI ARCHITECTURE:
+Organization-wide unified design system ensuring consistency across 100+ applications. Framework-agnostic component libraries using Lit Web Components compatible with React, Angular, Vue, and Vanilla JavaScript. NPM-publishable packages with semantic versioning.
+
+AGENTIC AI & INTELLIGENT AUTOMATION:
+Multi-agent AI systems using LangChain and LangGraph. Custom MCP Servers for AI integration. N8N workflow automations. GitHub SpecKit-driven development with AI code review agents. RAG systems with vector databases. ElevenLabs Voice AI integration.
+
+ENTERPRISE DESIGN SYSTEMS:
+Multi-brand theming frameworks. CSS Custom Properties for runtime theme switching. Design token libraries synchronized with Figma. Material UI, ShadCN UI, Daisy UI expertise. WCAG 2.1 accessibility compliance.
+
+ADVANCED ANIMATION & MOTION:
+GSAP expert (ScrollTrigger, Timeline, Tween). Framer Motion declarative animations. React Spring physics-based motion. 60fps GPU-accelerated animations. Scroll-triggered and interactive animations.
+
+DEVELOPMENT TOOLS MASTERY:
+Cursor IDE (AI-powered primary development environment). VS Code with extensions. Claude Desktop for architecture planning. Windsurf IDE for AI-first development. Advanced CLI proficiency (Git, npm, Expo, Docker, Vercel, Supabase).
+
+================================================================================
+EDUCATION
+================================================================================
+
+Bachelor of Technology - Computer Science Engineering
+
+Continuous Learning & Certifications:
+- Advanced TypeScript Patterns
+- AI/ML Engineering (TensorFlow, PyTorch)
+- LangChain & LangGraph
+- Cloud Architecture (Microsoft Azure)
+- Design Systems & Component Architecture
+- React Native & Mobile Development
+
+================================================================================
+OPEN SOURCE CONTRIBUTIONS
+================================================================================
+
+82+ Public Repositories on GitHub
+- React Hooks Comprehensive Guide
+- Redux Toolkit & RTK Query Implementation
+- TypeScript Advanced Concepts
+- Python Data Science & ML Tutorials
+- Angular Interview Preparation Resources
+- NextJS Tutorial and Best Practices
+- Component Library Templates
+- Animation Examples and Patterns
+
+Community Impact:
+29+ Followers, Technical blog posts on Medium, Code examples used by development community
+
+================================================================================
+PROFESSIONAL ATTRIBUTES
+================================================================================
+
+- Technical leadership and architecture design
+- Mentoring and code review expertise
+- Innovation and early technology adoption
+- Performance optimization specialist
+- Quality-focused development practices
+- Strong collaboration and communication
+- Problem-solving and creative solutions
+- Documentation and knowledge sharing
+
+================================================================================
+
+References available upon request
+Portfolio: https://cvpkr-portfolio.web.app/
+Last Updated: October 2025
+
